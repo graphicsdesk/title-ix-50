@@ -8,11 +8,762 @@
       "locals": {
         "top": [],
         "body": [],
+        "headline": "The 50 greatest Columbia women’s sports moments",
+        "date": "December 14, 2022",
+        "byline": "By Columbia Daily Spectator Sports Staff",
+        "pages": {
+          "page_0_link": "",
+          "page_0_title": "The 50 greatest Columbia women’s sports moments",
+          "page_0_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/YEKFWIX36ZD7TMHZVUINF7HP2M.JPEG",
+          "page_0_cover_caption": "",
+          "page_0_heading": "Introduction",
+          "page_0_date": "12/14/22",
+          "page_0_byline": "Columbia Daily Spectator Sports Staff",
+          "page_1_link": "",
+          "page_1_title": "Part 1: 1983 - 2010",
+          "page_1_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/YEKFWIX36ZD7TMHZVUINF7HP2M.JPEG",
+          "page_1_cover_caption": "",
+          "page_1_heading": "Part 1: 1983 - 2010",
+          "page_1_date": "12/14/22",
+          "page_1_byline": "Columbia Daily Spectator Sports Staff",
+          "page_2_link": "",
+          "page_2_title": "Part 2: 2011 - 2022",
+          "page_2_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/YEKFWIX36ZD7TMHZVUINF7HP2M.JPEG",
+          "page_2_cover_caption": "",
+          "page_2_heading": "Part 2: 2011 - 2022",
+          "page_2_date": "12/14/22",
+          "page_2_byline": "Columbia Daily Spectator Sports Staff"
+        },
+        "bodies": {
+          "page_0": [
+            {
+              "type": "text",
+              "value": "Letter from the editor:"
+            },
+            {
+              "type": "text",
+              "value": "Fifty years after the passage of Title IX, Spectator’s sports staff looked for a way to celebrate the decades of achievement, hard work, and sacrifice exhibited by Columbia’s women athletes. We decided to pick 50 moments over the past few decades that symbolize some of each team and individual’s most outstanding triumphs."
+            },
+            {
+              "type": "text",
+              "value": "While Title IX was ratified in 1972, banning educational discrimination based on sex, our 50 moments mostly come from 1983 onwards—the first year Columbia enrolled women and the year Columbia and Barnard made history by establishing an athletic consortium, the first of its kind. The events range from recent history—like women’s basketball’s ascendant 2022 season—to 35 years ago, like Katy Bilodeau’s second national fencing championship in 1987."
+            },
+            {
+              "type": "text",
+              "value": "Though we are thrilled to celebrate the Lions’ achievements, it is also important to recognize the equality gap between men’s and women’s sports. Women who participate in collegiate athletics still deal with <a href=\"https://www.indystar.com/story/sports/college/indiana/2022/11/26/indiana-womens-basketball-ballroom-at-mirage-hotel-casino-las-vegas/69678691007/\">inadequate facilities</a>, <a href=\"https://www.columbiaspectator.com/sports/2021/03/26/we-have-work-to-do-examining-columbia-athletics-persistent-gender-disparity-in-team-funding/\">disparities in funding</a>, gender-based harassment, and athletic industries that pay men far more than women. For all these reasons and more, it is crucial that we continue to center women’s sports in our coverage, celebrate women’s athletic achievements, and highlight inequality whenever possible."
+            },
+            {
+              "type": "text",
+              "value": "We hope you enjoy reading!"
+            },
+            {
+              "type": "text",
+              "value": "Miles Schachner, sports editor"
+            }
+          ],
+          "page_1": [
+            {
+              "type": "subhed",
+              "value": "Administration"
+            },
+            {
+              "type": "text",
+              "value": "<b>1983: Columbia-Barnard Athletic Consortium created</b>"
+            },
+            {
+              "type": "image",
+              "value": {
+                "asset": "../assets/consortium.jpg",
+                "width": "60vw",
+                "class": "consortium",
+                "credit": "courtesy of Columbia Daily Spectator Archives"
+              }
+            },
+            {
+              "type": "text",
+              "value": "Barnard and Columbia made history in 1983 with the creation of the Columbia-Barnard Athletic Consortium. This unprecedented endeavor allowed a women’s college, Barnard, to compete in the NCAA for the first time. The program has since expanded, especially under Barnard President Sian Beilock. During her tenure, the number of athletes at Barnard has grown <a href=\"https://gocolumbialions.com/news/2022/3/3/general-title-ix-celebration-general.aspx\">exponentially</a>.  – Jorge Hernandez"
+            },
+            {
+              "type": "text",
+              "value": "<b>2004: M. Dianne Murphy appointed as athletic director </b>"
+            },
+            {
+              "type": "text",
+              "value": "After a successful stint serving as the director of athletics and recreation at the University of Denver, M. Dianne Murphy was appointed as Columbia’s athletic director by University President Lee Bollinger in 2004. Her 11-year tenure saw 30 Columbia teams receive Ivy League titles. Perhaps her most notable achievement was the Columbia Campaign for Athletics: Achieving Excellence. As the most successful fundraising campaign in Columbia Athletics history, it helped raise over $100 million for the program. – Jorge Hernandez"
+            },
+            {
+              "type": "text",
+              "value": "<b>2007: Columbia Athletics Women’s Leadership Council established</b>"
+            },
+            {
+              "type": "text",
+              "value": "In 2007, M. Dianne Murphy and several alumnae founded the Columbia Women’s Leadership Council, a “leadership-giving recognition society for women.” Since its creation, the council has raised over $7.5 million for Columbia women’s athletics. The program aims to create ties between athletic alumnae and current athletes.    – Miles Schachner"
+            },
+            {
+              "type": "subhed",
+              "value": "Archery"
+            },
+            {
+              "type": "image",
+              "value": {
+                "asset": "../assets/arch-undef.png",
+                "width": "60vw",
+                "class": "arch-undef",
+                "credit": "courtesy of Columbia Daily Spectator Archives"
+              }
+            },
+            {
+              "type": "text",
+              "value": "<b>1980s: Columbia archery has undefeated run</b>"
+            },
+            {
+              "type": "text",
+              "value": "In the 1980s, the women’s archery program at Columbia was a force to be reckoned with. “We are probably the greatest athletic team of Columbia University,” Al Lizzio, longtime coach of the women’s archery team, <a href=\"https://spectatorarchive.library.columbia.edu/?a=d&d=cs19861119-01.2.34&srpos=3&e=-------en-20--1--txt-txIN-archery------\">told Spectator in 1986</a>. The team went undefeated until near the end of the decade, when it fell in its season opener against Baruch College <a href=\"https://spectatorarchive.library.columbia.edu/?a=d&d=cs19891103-01.2.25&srpos=41&e=-------en-20--41--txt-txIN-archery------\">in 1989</a>, a narrow loss of 548-543. – Heather Chen"
+            },
+            {
+              "type": "subhed",
+              "value": "Basketball"
+            },
+            {
+              "type": "text",
+              "value": "<b>1985-86: Nancy Kalafus leads women’s basketball to historic season</b>"
+            },
+            {
+              "type": "text",
+              "value": "The 1985-86 season was just the second season of women’s basketball. Nancy Kalafus, then the head coach of the Lions, led the team to the winningest season in program history. The 21-6 record, achieved in Division III, paved the way for the Lions’ subsequent play in Division I. The team won third place in the NCAA tournament that year with an 89-73 victory over Buffalo State College. Kalafus would coach the Lions for an additional five seasons before her departure in 1991. – Adam Lang"
+            },
+            {
+              "type": "text",
+              "value": "<b>1987: Ula Lysniak sets women’s basketball career record</b>"
+            },
+            {
+              "type": "text",
+              "value": "As the first Columbia woman to score 1000 points in her career, Ula Lysniak, BC ’87, is one of Columbia basketball’s all-time greats. Lysniak started every game in her four years on the team and is one of the Lions’ all-time leading scorers with 1,447 points. She also added 764 rebounds in her career. After graduating from Barnard in 1987, Lysniak played in Austria as the first Light Blue woman player to ever play professionally. – Rebecca Wachen"
+            },
+            {
+              "type": "text",
+              "value": "<b>Megan Griffith’s career, from Columbia player to head coach</b>"
+            },
+            {
+              "type": "image",
+              "value": {
+                "asset": "../assets/megan-griffith.jpeg",
+                "width": "60vw",
+                "class": "griffith",
+                "credit": "courtesy of Columbia Daily Spectator Archives"
+              }
+            },
+            {
+              "type": "text",
+              "value": "Currently in her seventh season as head coach at her alma mater, Megan Griffith, CC ’07, has transformed Columbia women’s basketball into a team that sits near the top of the Ivy League. In her first six seasons, she led the Lions to a 0.414 win rate against Ivy League teams, including a 0.857 Ivy win rate in 2021-22. During her own collegiate career, Griffith scored over 1000 points, sitting at eighth on the Columbia all-time scoring leaderboard. Named the 2021-22 CBB Analytics Women’s Basketball Coach of the Year by the Asian Coaches Association, Griffith looks to keep building momentum as she continues shaping Columbia women’s basketball into a national powerhouse. – Rebecca Wachen"
+            },
+            {
+              "type": "subhed",
+              "value": "Cross Country"
+            },
+            {
+              "type": "text",
+              "value": "<b>2002-05: Women’s cross country wins Ivy League Heptagonal Championship four years in a row</b>"
+            },
+            {
+              "type": "text",
+              "value": "During the 2002-05 season, the women’s cross country team was untouchable, defending its status as Ivy League champion for four years. During that reign, the Lions would claim back-to-back individual Heps Championship titles with Caroline Bierbaum, CC ’06, who won it all in 2004 and 2005. Her feat was so impressive that her 2005 5k time still tops Columbia’s record books at 17:01.4. – Alexander Kwok"
+            },
+            {
+              "type": "subhed",
+              "value": "Fencing"
+            },
+            {
+              "type": "image",
+              "value": {
+                "asset": "../assets/bilodeau.png",
+                "width": "60vw",
+                "class": "bilodeau",
+                "credit": "courtesy of Columbia Daily Spectator Archives"
+              }
+            },
+            {
+              "type": "text",
+              "value": "<b>1987: Katy Bilodeau repeats as individual national champion</b>"
+            },
+            {
+              "type": "text",
+              "value": "In 1985, Katy Bilodeau, CC ’87, won the NCAA national title in women’s foil. In 1987, she did it again, becoming the first female fencer to win two NCAA titles. The Columbia Athletics Hall of Famer finished her career as one of the most decorated Lions ever. Among many other honors, she was the first fencer to be a four-time first-team All-American, the 1980s NCAA Athlete of the Decade in fencing, and a two-time Olympian in 1988 and 1992. – Robert Gao"
+            },
+            {
+              "type": "text",
+              "value": "<b>1992: First combined national title, three years after NCAA integrates fencing scoring</b>"
+            },
+            {
+              "type": "text",
+              "value": "When Columbia won the 1992 NCAA championship, it was the program’s 12th of all time. More importantly though, it was the Lions’ first since the national fencing championships adopted a co-ed model, coming just three years after the NCAA switched to the combined men’s and women’s scoring format and less than a decade after Columbia itself began admitting women in 1983. Three-time Olympian Anne Marsh, CC ’94, played a key role, finishing second in women’s foil with a 14-2 record. Then the Lions won it all again, repeating as national champions in 1993 despite coming in as the underdog. Marsh again put up strong numbers, placing third with a 16-1 record. –Robert Gao"
+            },
+            {
+              "type": "text",
+              "value": "<b>2005: Emily Jacobson wins individual title as first-year</b>"
+            },
+            {
+              "type": "text",
+              "value": "After competing at the 2004 Olympics, Emily Jacobson, CC ’08, exploded onto the national fencing scene in her rookie year, winning the 2005 NCAA sabre title and becoming Columbia’s first female athlete to win an individual championship since 1990. It was a great start to an illustrious national career, as Jacobson would never finish lower than third at the NCAA Championships. As a result, she became one of two female fencers at Columbia to be a four-time first-team All-American. –Robert Gao"
+            },
+            {
+              "type": "text",
+              "value": "<b>2008: Erinn Smart’s Columbia career and Olympic medal</b>"
+            },
+            {
+              "type": "text",
+              "value": "Erinn Smart, BC ’01, made Columbia history on a global stage. The two-time All-American fencer, who won four national championships, became Columbia’s first Black Olympic medalist when the United States beat Hungary to earn a silver medal. – Miles Schachner"
+            },
+            {
+              "type": "subhed",
+              "value": "Field Hockey"
+            },
+            {
+              "type": "image",
+              "value": {
+                "asset": "../assets/gena-miller.png",
+                "width": "60vw",
+                "class": "gena-miller",
+                "credit": "courtesy of Columbia Daily Spectator Archives"
+              }
+            },
+            {
+              "type": "text",
+              "value": "<b>2007: Gena Miller becomes Columbia field hockey’s first All-American</b>"
+            },
+            {
+              "type": "text",
+              "value": "After starting as goalkeeper in all 17 games in 2007, Gena Miller, CC ’08, became the first Columbia field hockey player to receive All-American recognition on the third team and achieved first-team All-Ivy honors. Miller had a stellar season, earning the most save percentage in the country with .835. The only other Columbia field hockey player to receive All-American honors is midfielder Christina Freibott, CC ’15, in 2014. – Simrin Ponamgi"
+            },
+            {
+              "type": "subhed",
+              "value": "Golf"
+            },
+            {
+              "type": "image",
+              "value": {
+                "asset": "../assets/golf-2007.jpeg",
+                "width": "60vw",
+                "class": "golf-2007",
+                "credit": "courtesy of Columbia Athletics"
+              }
+            },
+            {
+              "type": "text",
+              "value": "<b>2007: Ivy team champions and individual women’s winner </b>"
+            },
+            {
+              "type": "text",
+              "value": "During the 2007 Ivy League championship, Columbia earned a score of 933, won the women’s bracket, and became the first Ivy other than Yale or Princeton to take a league title. As the individual Ivy League champion, Sara Ovadia, CC ’09, led the Lions to their first team title in program history. Ovadia’s success was not a surprise, given her impressive golfing resume and the California native’s status as No. 24 in the US for Women’s Amateurs. – Alexander Kwok"
+            },
+            {
+              "type": "subhed",
+              "value": "Lacrosse"
+            },
+            {
+              "type": "text",
+              "value": "<b>1998: Sara Brubaker beats Notre Dame with last second goal </b>"
+            },
+            {
+              "type": "image",
+              "value": {
+                "asset": "../assets/brubaker.jpeg",
+                "width": "60vw",
+                "class": "brubaker",
+                "credit": "courtesy of Columbia Daily Spectator Archives"
+              }
+            },
+            {
+              "type": "text",
+              "value": "During the 1998 women’s lacrosse season, the new Columbia program was tied with Notre Dame with only 30 seconds left on the clock. The Irish defense was called for a foul, and Sara Brubaker, BC ’00, stepped up to take an 8-meter shot. With the game on the line, Brubaker bounced the ball past the Irish goalie. Brubaker would go on to captain the team in the 1999 and 2000 seasons, with this game-winner against the Irish setting the tone for the rest of her lacrosse career. - Sydney Stoller"
+            },
+            {
+              "type": "text",
+              "value": "<b>2003: Adie Moll’s single-season lacrosse record</b>"
+            },
+            {
+              "type": "text",
+              "value": "Columbia women’s lacrosse struggled in its first few seasons as a varsity sport, but a bright spot during this time was Adie Moll, CC ’04. In 2003, Moll was awarded second-team All Ivy status. That season, she set a single-season and school record in scoring, boosting team morale and providing hope forthe young program. A senior co-captain in 2004, Moll continued her scoring spree and netted five goals in the season opener that helped the Lions rally and beat Wagner College in overtime. – Sydney Stoller"
+            },
+            {
+              "type": "subhed",
+              "value": "Rowing"
+            },
+            {
+              "type": "text",
+              "value": "<b>2004: Stacey Borgman wins women’s lightweight double skulls at the Olympics in Athens </b>"
+            },
+            {
+              "type": "image",
+              "value": {
+                "asset": "../assets/borgman.jpeg",
+                "width": "60vw",
+                "class": "borgman",
+                "credit": "courtesy of Columbia Athletics"
+              }
+            },
+            {
+              "type": "text",
+              "value": "Stacey Borgman, BC ’98, began her path to greatness during her sophomore year at Barnard when, at the request of her mother, she walked onto the rowing team, even though she had never set foot in a scull. What followed was an illustrious career, where she won nine national titles at the U.S. Rowing National Championships. However, the highlight of her career came in 2004, when she competed for the U.S. women’s rowing team in Athens at the Olympics. As the first Columbia women’s rowing alumnus to compete in the Olympics, Borgman won the women’s lightweight double sculls. She was subsequently inducted into the Columbia Athletics Hall of Fame in 2008, cementing her impressive legacy.  – Lucas Metzger"
+            },
+            {
+              "type": "text",
+              "value": "<b>2008: Rowing team beats Cornell by one tenth of a second </b>"
+            },
+            {
+              "type": "text",
+              "value": "Columbia women’s rowing defied expectations during Cornell’s Dunn Bowl Regatta in 2008. With only 500 meters to go in the race, Cornell maintained a lead of at least half a length on the Lions. However, the Lions kept fighting, managing to draw even with the Cornell boat and then pull ahead to finish second with a record of 6:36, one tenth of a second faster than Cornell’s time, an incredibly close finish. – Lucas Metzger"
+            },
+            {
+              "type": "subhed",
+              "value": "Soccer"
+            },
+            {
+              "type": "text",
+              "value": "<b>1991: Rachel Barney, CC ’93, saves 34 shots in match against Cornell</b>"
+            },
+            {
+              "type": "text",
+              "value": "On Sept. 14, 1991, Columbia goalkeeper Rachel Barney saved a whopping 34 shots against Cornell, shattering an Ivy League record. Over 30 years later, no other Ivy League goalkeeper has cracked 30 single-game saves. Barney’s 34 saves is the second most in NCAA Division I women’s soccer history. – Julian Silva-Forbes"
+            },
+            {
+              "type": "text",
+              "value": "<b>2006: Women’s soccer wins Ivy League championship with undefeated season</b>"
+            },
+            {
+              "type": "text",
+              "value": "Columbia women’s soccer won its only Ivy League championship in 2006, adding a rare win to the Lions’ arsenal. The team was undefeated in league games and was the only Ivy League team to enter the NCAA tournament. The seven seniors on the team exemplified leadership and cooperation for younger players and set the tone for their successful season. – Sydney Stoller"
+            },
+            {
+              "type": "image",
+              "value": {
+                "asset": "../assets/wsoc-undefeated.png",
+                "width": "60vw",
+                "class": "wsoc-undefeated",
+                "credit": "courtesy of Columbia Daily Spectator Archives"
+              }
+            },
+            {
+              "type": "subhed",
+              "value": "Softball"
+            },
+            {
+              "type": "text",
+              "value": "<b>2002: Softball posts ERA of 1.60, record wins, runs, walks</b>"
+            },
+            {
+              "type": "text",
+              "value": "In 2002, softball pitchers ended the season with a team ERA of 1.60, the lowest in Columbia’s history. Headed by ace Allison Buehler, CC ’03, who put up the second-lowest individual ERA in program history with 1.26, beaten only by her 0.78 ERA from the previous season, the team gave up just 110 runs with 80 earned and 47 walks en route to 27 wins on the season, all records for the team. – Brian Lee"
+            },
+            {
+              "type": "subhed",
+              "value": "Swimming & Diving"
+            },
+            {
+              "type": "text",
+              "value": "<b>1998: Cristina Teuscher, CC ’00, wins individual events at NCAA Championship </b>"
+            },
+            {
+              "type": "text",
+              "value": "Cristina Teuscher, CC ’00, won the 500-meter freestyle and 400-meter intermediate medley at the 1998 NCAA Championship. Teuscher remains the lone Lion to win an NCAA championship in swimming and diving, and she would go on to win two more in 2000. Teuscher won a gold medal in the 4x200m freestyle in the 1996 Summer Olympics. – Owen Tesoro"
+            },
+            {
+              "type": "subhed",
+              "value": "Volleyball"
+            },
+            {
+              "type": "text",
+              "value": "<b>2000: Volleyball has best season ever</b>"
+            },
+            {
+              "type": "text",
+              "value": "On Nov. 10, 2000, volleyball put together the program’s best all-around performance during an Ivy League tournament playoff game versus Princeton. Despite falling in three hard-fought sets, the team posted record highs in kills, assists, and digs with 110, 106, and 140, respectively. The Lions also posted their second-highest service aces in a single match with 22 in just three sets. – Brian Lee"
+            }
+          ],
+          "page_2": [
+            {
+              "type": "subhed",
+              "value": "Archery"
+            },
+            {
+              "type": "text",
+              "value": "<b>2018: Archery wins second straight compound national title </b>"
+            },
+            {
+              "type": "text",
+              "value": "Columbia women’s archery finished its season on May 19, 2018 with a <a href=\"https://gocolumbialions.com/news/2018/5/19/211716432.aspx\">second consecutive national title </a>in the compound division at the National Outdoor Collegiate Archery Championships. This was the team’s third national title in four years. Sophia Strachan, CC ’20, a member of the compound team, would go on to <a href=\"https://gocolumbialions.com/news/2018/10/10/strachan-collins-earn-spots-on-2019-us-archery-team.aspx\">earn a spot</a> on the 2019 U.S. archery team. – Heather Chen"
+            },
+            {
+              "type": "subhed",
+              "value": "Basketball"
+            },
+            {
+              "type": "text",
+              "value": "<b>2014-18: Camille Zimmerman shatters Columbia record books</b><b> </b>"
+            },
+            {
+              "type": "text",
+              "value": "As a Lion, Camille Zimmerman, CC ’18, was one of the most prolific players in not only the Ivy League but also the entire nation. Zimmerman’s historic career featured an otherworldly junior season in which she averaged 22.5 points and 9.6 rebounds per game. She currently holds the records in career points, field goals made, free throw percentage, games played, and games started. After graduating from Columbia, Zimmerman signed a contract with the Minnesota Lynx. She now plays professionally in the premier women's basketball league of Finland. – Matt Kim"
+            },
+            {
+              "type": "text",
+              "value": "<b>2020: Women’s basketball qualifies for first Ivy League Tournament</b>"
+            },
+            {
+              "type": "text",
+              "value": "After finishing the 2019-20 season 17-10 overall and 8-6 in Ancient Eight play, the Lions secured their first Ivy League Tournament bid in program history. However, due to the pandemic, their historic entry to the tournament was put on pause. The Light Blue continued its momentum after the pandemic and once again earned an Ivy League Tournament bid last season. The team found some success in the tournament, defeating Yale 67-38, but ultimately lost in the championship to Princeton.  — Caleb Dye"
+            },
+            {
+              "type": "text",
+              "value": "<b>2022: Abbey Hsu breaks Columbia career record and Ivy League single-season record </b>"
+            },
+            {
+              "type": "image",
+              "value": {
+                "asset": "../assets/abbey-hsu.jpeg",
+                "width": "60vw",
+                "class": "abbey-hsu",
+                "credit": "by Caitlin Buckley"
+              }
+            },
+            {
+              "type": "text",
+              "value": "In only her sophomore season, junior guard Abbey Hsu, the Lions’ top three-point shooter, broke both Columbia’s three-point career record and the Ivy League three-point season record in the same game. Hsu finished the 2021-22 season with 108 three-pointers, and she will continue to add to her career total with two seasons left in a Light Blue uniform. – Rebecca Wachen"
+            },
+            {
+              "type": "text",
+              "value": "<b>2022: Columbia women’s basketball reaches WNIT quarterfinals</b>"
+            },
+            {
+              "type": "text",
+              "value": "Down by 17 against Boston College in the third round of the Women’s National Invitation Tournament, the 2021-22 Columbia women’s basketball team pulled off a shocking comeback to advance to WNIT quarterfinals. Despite not making a single three-pointer all night, the Lions outscored the Eagles in the second half by 18 points to keep their season alive. – Rebecca Wachen"
+            },
+            {
+              "type": "image",
+              "value": {
+                "asset": "../assets/wnit.jpeg",
+                "width": "60vw",
+                "class": "wnit",
+                "credit": "by Caitlin Buckley"
+              }
+            },
+            {
+              "type": "text",
+              "value": "<b>2021-22: Breaking the records for wins, conference wins, points</b><b>, </b><b>three-pointers</b><b>, </b><b>rebounds, and assists </b>"
+            },
+            {
+              "type": "text",
+              "value": "The 2021-22 season was historic for Columbia women’s basketball, which broke team records at every turn. With 25 total wins and 12 conference wins, the Lions shattered two program records. Since the addition of Hsu, Columbia’s offense has risen to another level. Hsu broke Columbia’s record of three-pointers made in a single season, contributing to the team’s record-breaking 246 triples, 63 more than the 2017-18 season. – Adam Lang"
+            },
+            {
+              "type": "subhed",
+              "value": "Fencing"
+            },
+            {
+              "type": "image",
+              "value": {
+                "asset": "../assets/iman-blow.jpeg",
+                "width": "60vw",
+                "class": "iman-blow",
+                "credit": "courtesy of Columbia Athletics"
+              }
+            },
+            {
+              "type": "text",
+              "value": "<b>2018: Iman Blow becomes first Black woman in Columbia history to win NCAA individual title</b>"
+            },
+            {
+              "type": "text",
+              "value": "When Iman Blow, CC ’19, won the final touch against Notre Dame fencer Sabrina Massialas in 2018, she broke ground as the first Black woman in Columbia history to win an NCAA individual title with her national foil victory. Blow’s title added to her ascendant resume, which already included a two-time team national champion as well as a two-time first-team All-American title. – Miles Schachner"
+            },
+            {
+              "type": "text",
+              "value": "<b>2019: Sylvie Binder and Anne Cebula claim individual titles</b>"
+            },
+            {
+              "type": "text",
+              "value": "In 2019, Sylvie Binder, CC ’22, and Anne Cebula, BC ’20, won the individual national titles in women’s foil and épée, respectively, to lead Columbia to its 16th national championship. Binder began her sophomore-year campaign with a 20-bout win streak and ended the season atop the podium with a 19-3 record at the NCAA tournament. Cebula’s individual title was the first women’s épée crown in program history, as well as the first-ever individual championship won by any Barnard athlete. – Robert Gao"
+            },
+            {
+              "type": "subhed",
+              "value": "Field Hockey"
+            },
+            {
+              "type": "text",
+              "value": "<b>2019: Field hockey beats two top-25 teams back-to-back, first win against a ranked team </b>"
+            },
+            {
+              "type": "text",
+              "value": "In 2019, for the first time in program history, Columbia defeated a top-25 team after a 4-3 overtime win against No. 22 Boston University. Allison Smith, CC ’22, provided the late-game heroics for the Lions, scoring a walk-off goal off a fast break with 16 seconds left in overtime. Following the win, the Light Blue took on No. 24 University of Maine the next day. After scoring three first-half goals, Columbia held off the Black Bears, defeating them 3-2 and earning its second victory in a row against a ranked opponent in just as many days. – Carlos Gonzalez-Romero"
+            },
+            {
+              "type": "text",
+              "value": "<b>2021:</b><b> Field hockey starts 6-0—its best start in program history</b>"
+            },
+            {
+              "type": "text",
+              "value": "In Katie DeSandis’, CC ’13, first season as head coach and the Lions’ first season back from the COVID-19 pandemic, field hockey won the first six games of its season. During the six-game stretch, Columbia outscored its opponents 22-6. For the rest of the season, however, the Lions only won two more games and finished 8-9, placing seventh in the Ivy League. Despite this, their 6-0 start in 2021 was the best start in program history. – Carlos Gonzalez-Romero"
+            },
+            {
+              "type": "text",
+              "value": "<b>2021: Kelsey Farkas named to the national team </b>"
+            },
+            {
+              "type": "text",
+              "value": "Kelsey Farkas, CC ’22, became the first player in Columbia field hockey’s history to be named to the U.S national team. During her time at Columbia, Farkas was named captain and recorded 16 goals, 13 assists, and 45 points. As a Lion, Farkas earned multiple honors, including two-time first-team NFHCA All Mideast Region, two-time first-time All Ivy, NFHCA National Player of the week, and second-team NFHCA All Mideast Region. Farkas made her first national team appearance on Nov. 26, 2021 against Canada. – Carlos Gonzalez-Romero"
+            },
+            {
+              "type": "image",
+              "value": {
+                "asset": "../assets/farkas.jpeg",
+                "width": "60vw",
+                "class": "farkas",
+                "credit": "by Violet Mendelsund"
+              }
+            },
+            {
+              "type": "subhed",
+              "value": "Golf"
+            },
+            {
+              "type": "text",
+              "value": "<b>2014: Michelle Piyapattra, CC ’14, awarded Connie S. Maniatty Award</b>"
+            },
+            {
+              "type": "text",
+              "value": "The most accomplished golfer in Columbia history, Michelle Piyapattra was the program’s only athlete to earn three first-team All-Ivy honors and won the individual Ivy League title in 2011. In her sophomore campaign, she was named 2012 Ivy League Player of the Year. In her senior year, Columbia awarded her with the Connie S. Maniatty Award, given to a senior female athlete who exemplifies the pinnacle of athletic ability. In 2012, she was selected to compete in the NCAA Championship, becoming the first female golfer to do so in school history. Currently, she holds 16 career and season records for the Lions, including scoring average, overall wins, and finish percentage. – Matthew Rowell"
+            },
+            {
+              "type": "subhed",
+              "value": "Lacrosse"
+            },
+            {
+              "type": "text",
+              "value": "<b>2022: Silver Anniversary best players</b>"
+            },
+            {
+              "type": "text",
+              "value": "To celebrate the 25th anniversary of the women’s lacrosse program at Columbia, members of the public voted on the <a href=\"https://gocolumbialions.com/news/2022/4/11/lacrosse-announces-silver-anniversary-team.aspx\">best players</a> in program history. Kelsey Gedin, CC ’18, received 88 percent of the votes, the most by a wide margin. In her four years as a starter, Gedin tied the all-time program save record with 532 saves and led the Lions to their first Ivy League Tournament appearance. As a rookie, she was awarded All-Ivy Second Team accolades. She supplemented this impressive list with Division I Academic Honor Roll and Ivy League Honorable Mention awards later in her unforgettable college career.  – Sydney Stoller"
+            },
+            {
+              "type": "subhed",
+              "value": "Rowing"
+            },
+            {
+              "type": "text",
+              "value": "<b>2013: Samantha Warren named first-team All-American </b>"
+            },
+            {
+              "type": "text",
+              "value": "In 2013, Samantha Warren, CC ’13, a staple of the team for four years, was named first-team All-American. She had been previously named second-team All-American. She was instrumental in the Lions’ success that season, as her efforts brought the team five victories, a regatta win, and a 15th ranking on the coaches’ poll. – Lucas Metzger"
+            },
+            {
+              "type": "subhed",
+              "value": "Soccer"
+            },
+            {
+              "type": "text",
+              "value": "<b>2017: Columbia soccer wins 11-0 against Wagner University</b>"
+            },
+            {
+              "type": "text",
+              "value": "Columbia women’s soccer crushed Wagner University 11-0 on Sept. 24, 2017. Six different Lions scored, highlighted by a hat trick from forward Emma Anderson. Columbia and Wagner have not played again since. – Julian Silva-Forbes"
+            },
+            {
+              "type": "subhed",
+              "value": "Softball"
+            },
+            {
+              "type": "text",
+              "value": "<b>2018: Taylor Troutt, CC ’18, named Ivy League Player of the Year </b>"
+            },
+            {
+              "type": "text",
+              "value": "Taylor Troutt, CC ’18, was named the Ivy League Player of the Year, the first player to receive this honor in Columbia softball’s history. Troutt, a second baseman, set the Light Blue’s single-season record for batting average, 0.455, on-base percentage, 0.507, and slugging percentage, 0.797. She has the seventh highest batting average in Ivy League history. – Annelie Hyatt"
+            },
+            {
+              "type": "text",
+              "value": "<b>2019: Coach Teague named Ivy League Coach of the Year </b>"
+            },
+            {
+              "type": "text",
+              "value": "Columbia softball head coach Jen Teague led the Lions in their most winningest season and first postseason run in 2019. As a result, Teague was named Ivy League Coach of the Year. The Lions had an overall record of 26-19, and four members of the team were named to the First Team All-Ivy. – Jorge Hernandez"
+            },
+            {
+              "type": "text",
+              "value": "<b>2022: Raquel Reyes’ no-hitter versus Brown in 2022 season</b><b> </b>"
+            },
+            {
+              "type": "text",
+              "value": "In a game against Brown in her sophomore year, pitcher Raquel Reyes, CC ’24, became the fourth Lion to throw a no-hitter in Columbia softball’s 22-year history. She only allowed two base runners throughout her total 83-pitch effort and is the first no-hitter in over 10 years after Maggie Johnson, CC ’11, did it in 2011 against Princeton. Reyes was perfect against Brown through the first three innings, and the Lions were able to ride her arm to a victory against the Bears. – Alexander Kwok"
+            },
+            {
+              "type": "image",
+              "value": {
+                "asset": "../assets/reyes.jpeg",
+                "width": "60vw",
+                "class": "reyes",
+                "credit": "by Pippa Tsuki Carlson"
+              }
+            },
+            {
+              "type": "subhed",
+              "value": "Squash"
+            },
+            {
+              "type": "text",
+              "value": "<b>2017: </b><b>Colette Sultana, CC ’17</b><b>, </b><b>wins national title for squash</b>"
+            },
+            {
+              "type": "text",
+              "value": "The squash team’s first and only title at the national level came from Colette Sultana, CC ’17, at the College Squash Association Individual Championships in 2017. After losing the first game of her match, she was able to recover, winning three straight games to secure victory and play for the B Draw of the Holleran West Championship. Because of her success, she secured a spot on the second All-American team. – Caleb Dye"
+            },
+            {
+              "type": "image",
+              "value": {
+                "asset": "../assets/sultana.jpeg",
+                "width": "60vw",
+                "class": "sultana",
+                "credit": "courtesy of Columbia Athletics"
+              }
+            },
+            {
+              "type": "text",
+              "value": "<b>2020: Habiba Mohamed, CC ’22, becomes first squash player to receive All-American honors</b>"
+            },
+            {
+              "type": "text",
+              "value": "Despite Columbia squash’s brief history as a varsity team—gaining recognition in 2010—the team has been able to recruit top prospects like Habiba Mohamed. Before coming to Columbia, Mohamed won the 2014 World Junior Squash Championship. Mohamed played an integral role in helping the program’s national reputation. In her junior year, Mohamed became the first player to receive first-team All-American honors in program history. She capped off her time with Lions by having a perfect 9-0 season. – Caleb Dye"
+            },
+            {
+              "type": "subhed",
+              "value": "Swimming & Diving"
+            },
+            {
+              "type": "image",
+              "value": {
+                "asset": "../assets/meili.jpeg",
+                "width": "60vw",
+                "class": "meili",
+                "credit": "courtesy of Columbia Athletics"
+              }
+            },
+            {
+              "type": "text",
+              "value": "<b>2013: Kate Meili, CC ’13 shatters records</b>"
+            },
+            {
+              "type": "text",
+              "value": "Swimmer Katie Meili, CC ’13, exploded onto the scene in the 2012-13 season, setting  Columbia records for five races: the 100-meter freestyle, 200-meter intermediate medley., 400-meter intermediate medley, 100-meter breaststroke, and 200-meter breaststroke. —Julian Silva-Forbes"
+            },
+            {
+              "type": "subhed",
+              "value": "Tennis"
+            },
+            {
+              "type": "text",
+              "value": "<b>2012-13: Nicole Bartnik, CC ’13, wins</b><b> </b><b>back-to-back Ivy League Player of the Year selections</b>"
+            },
+            {
+              "type": "text",
+              "value": "For both the 2012 and 2013 seasons, Columbia tennis player Nicole Bartnik, CC ’13, earned Ivy League Player of the Year honors. Bartnik became just the third women’s player in Ivy League history to earn the award in two straight seasons. – Rebecca Wachen"
+            },
+            {
+              "type": "text",
+              "value": "<b>2013: Coach Ilene Weintraub, CC ’02,</b><b> </b><b>winningest women’s tennis coach in Columbia history, leads team to first Ivy League championship</b>"
+            },
+            {
+              "type": "text",
+              "value": "Women’s tennis head coach Ilene Weintraub, CC ’02, is a dedicated Lion. A two-time captain and All-Ivy League selection, Weintraub was always a threat on the tennis court at Columbia. After a successful career, Weintraub went onto become an assistant coach at Columbia, and was eventually named head coach of women’s tennis in 2007. In her 12 complete seasons, Weintraub has become the winningest head coach in Columbia women’s tennis history. In 2013, she led the Lions to their first <a href=\"https://www.columbiaspectator.com/sports/2020/04/27/a-decade-in-athletics-womens-tennis-enjoyed-historic-firsts/\">Ivy League championship</a>, a day she considers one of the best in her life. – Rebecca Wachen"
+            },
+            {
+              "type": "image",
+              "value": {
+                "asset": "../assets/weintraub.jpeg",
+                "width": "60vw",
+                "class": "weintraub",
+                "credit": "courtesy of Columbia Athletics"
+              }
+            },
+            {
+              "type": "subhed",
+              "value": "Track and Field"
+            },
+            {
+              "type": "text",
+              "value": "<b>2013</b><b>: Marvellous Iheukwumere, CC ’14, winning on and off the track</b>"
+            },
+            {
+              "type": "text",
+              "value": "Marvellous Iheukwumere was honored her senior year as Ivy League Woman of the Year after winning the Ivy League 200-meter race and the 100-meter race at the Princeton Elite Meet. She is also an Arthur Ashe Sports Scholar and boasted a 3.86 GPA her junior year. – Takashi Williams"
+            },
+            {
+              "type": "text",
+              "value": "<b>2017: Natalie Tanner, CC ’17</b><b>, </b><b>wins Ivy League championship as Academic All-American</b>"
+            },
+            {
+              "type": "text",
+              "value": "Natalie Tanner won many competitions as a cross country runner and was named Ivy League champion in the outdoor 10,000 meter and a finalist in the 5,000 meter and 10,000 meter in 2017. As a result, she was named All-Ivy League. Tanner accomplished all of this whilst maintaining a high enough GPA to make her a two-time USTFCCCA Academic All-American. – Takashi Williams"
+            },
+            {
+              "type": "image",
+              "value": {
+                "asset": "../assets/tanner.jpeg",
+                "width": "60vw",
+                "class": "tanner",
+                "credit": "by Columbia Daily Spectator"
+              }
+            },
+            {
+              "type": "subhed",
+              "value": "Volleyball"
+            },
+            {
+              "type": "text",
+              "value": "<b>2019: Chichi Ikwuazom, CC ’19,  makes volleyball program history</b>"
+            },
+            {
+              "type": "text",
+              "value": "In 2019, Chichi Ikwuazom posted the most decorated individual single season in Columbia volleyball history. The senior middle blocker averaged 5.32 kills and 6.02 points per set, good for third in the nation, while also hitting .438 throughout the season. Ikwuazom also averaged 1.14 blocks per set en route to 106 total for the season. For her efforts, Ikwuazom was named Ivy League Player of the Year with a unanimous selection to the All-Ivy League first team. Beyond the in-conference awards, she was also selected to the AVCA All-Northeast Region Team and earned an AVCA All-American honorable mention—both firsts in program history. – Brian Lee"
+            },
+            {
+              "type": "image",
+              "value": {
+                "asset": "../assets/ikwuazom.jpeg",
+                "width": "60vw",
+                "class": "ikwuazom",
+                "credit": "by KJ Mulam"
+              }
+            },
+            {
+              "type": "subhed",
+              "value": "Wrestling"
+            },
+            {
+              "type": "text",
+              "value": "<b>2020: The women’s wrestling club makes Ivy League history</b>"
+            },
+            {
+              "type": "text",
+              "value": "In early 2020, Bri Csontos, CC ’21, and Talia Fine, CC ’23, with the help of former Columbia College Alumni Association president Kyra Tirana Barry, CC ’87, formed the first women’s wrestling club in Ivy League history. While Columbia boasts a long men’s wrestling history, this achievement marks the school’s commitment to expanding opportunities to women in wrestling. With members ranging from international competitors to eager rookies, Columbia finds itself at the forefront of the surging women’s wrestling movement in its quest for varsity status. – Bernard Wang"
+            },
+            {
+              "type": "image",
+              "value": {
+                "asset": "../assets/wrestling.jpeg",
+                "width": "60vw",
+                "class": "wrestling",
+                "credit": "by Caitlin Buckley"
+              }
+            }
+          ],
+          "asset": ""
+        },
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1vXiaw0DOGY5JUwbwlxQUU4EzLiY9ICx1qbcpgYV6SiM/edit"
       }
     }
   }

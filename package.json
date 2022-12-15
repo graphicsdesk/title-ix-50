@@ -1,10 +1,10 @@
 {
-  "name": "",
+  "name": "title-ix-50",
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "parcel src/index.html --global script",
-    "build": "parcel build src/index.html --global script --public-url . --no-content-hash",
+    "start": "parcel src/index2.html --global script",
+    "build": "parcel build src/index.html src/index1.html src/index2.html --global script --public-url . --no-content-hash",
     "postinstall": "patch-package"
   },
   "devDependencies": {
@@ -33,6 +33,6 @@
     "USE_EYE_NAV": false,
     "USE_COVER_HED": false,
     "IS_EMBED": false,
-    "DOC_URL": null
+    "DOC_URL": "https://docs.google.com/document/d/1vXiaw0DOGY5JUwbwlxQUU4EzLiY9ICx1qbcpgYV6SiM/edit"
   }
 }
